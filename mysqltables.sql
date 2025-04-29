@@ -1,3 +1,4 @@
+-- Active: 1745838243739@@127.0.0.1@3306@sql_prac_pron
 DROP DATABASE IF EXISTS NorthwindMySQL;
 CREATE DATABASE NorthwindMySQL;
 USE NorthwindMySQL;

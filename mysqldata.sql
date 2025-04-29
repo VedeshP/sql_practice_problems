@@ -1,3 +1,4 @@
+-- Active: 1745838243739@@127.0.0.1@3306@sql_prac_pron
 use NorthwindMySQL;
 
 INSERT INTO Categories (CategoryID, CategoryName, Description) VALUES (1, N'Beverages', N'Soft drinks, coffees, teas, beers, and ales');
